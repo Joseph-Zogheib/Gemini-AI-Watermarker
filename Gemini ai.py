@@ -1,4 +1,4 @@
-GOOGLE_API_KEY = 'AIzaSyAp2pOQwlCHMKe3VJ0OSzmolLXVeDpPHF4'
+GOOGLE_API_KEY = '_______'
 
 import google.generativeai as genai
 
